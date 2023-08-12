@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ajandsharv-wedding-website/static/css/main.e402342e.css",
-    "main.js": "/ajandsharv-wedding-website/static/js/main.d7092fb1.js",
+    "main.js": "/ajandsharv-wedding-website/static/js/main.e7642453.js",
     "static/js/787.28cb0dcd.chunk.js": "/ajandsharv-wedding-website/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/ajandsharv-wedding-website/index.html",
     "main.e402342e.css.map": "/ajandsharv-wedding-website/static/css/main.e402342e.css.map",
-    "main.d7092fb1.js.map": "/ajandsharv-wedding-website/static/js/main.d7092fb1.js.map",
+    "main.e7642453.js.map": "/ajandsharv-wedding-website/static/js/main.e7642453.js.map",
     "787.28cb0dcd.chunk.js.map": "/ajandsharv-wedding-website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e402342e.css",
-    "static/js/main.d7092fb1.js"
+    "static/js/main.e7642453.js"
   ]
 }
