@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ajandsharv-wedding-website/static/css/main.e402342e.css",
-    "main.js": "/ajandsharv-wedding-website/static/js/main.fa6682bf.js",
-    "static/js/787.28cb0dcd.chunk.js": "/ajandsharv-wedding-website/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/ajandsharv-wedding-website/index.html",
-    "main.e402342e.css.map": "/ajandsharv-wedding-website/static/css/main.e402342e.css.map",
-    "main.fa6682bf.js.map": "/ajandsharv-wedding-website/static/js/main.fa6682bf.js.map",
-    "787.28cb0dcd.chunk.js.map": "/ajandsharv-wedding-website/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.e402342e.css",
+    "main.js": "/static/js/main.12ff353b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.e402342e.css.map": "/static/css/main.e402342e.css.map",
+    "main.12ff353b.js.map": "/static/js/main.12ff353b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e402342e.css",
-    "static/js/main.fa6682bf.js"
+    "static/js/main.12ff353b.js"
   ]
 }
